@@ -1,5 +1,5 @@
 - Hi, I’m Mohsen
-- I’m interested in software devoloping  
+- I’m interested in software developing  
 - myyy003@hotmail.com
 - 
 -
