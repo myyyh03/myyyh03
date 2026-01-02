@@ -1,10 +1,12 @@
-- Hi, I’m Mohsen
-- I’m interested in software developing  
-- myyy003@hotmail.com
-- 
--
+ Hey there, I’m Mohsen
+ 
+ I’m interested in software developing , problem solving
+ I work on java, Spring, Docker ,linux and other development and software tools
+----
+### Tools & Tech
+- Java, Spring , Maven
+- Docker , Kubernetes , Shell
+- SQL , Restful APIs
+- CCNA , LInux
+----
 
-<!---
-myyyh03/myyyh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
